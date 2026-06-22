@@ -1,1 +1,0 @@
-{"date":"—","time":"Not yet scanned","timestamp":"","scanned":0,"matched":0,"errors":0,"elapsed_min":0,"cup_handle":0,"htf":0,"vcp":0,"prob55plus":0,"prob70plus":0}
